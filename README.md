@@ -1,7 +1,7 @@
 # MachineLearningProject
-Using logistic regression and decison tree classifier to predict a person’s income level (Python)
+Using logistic regression and decison tree classifier to predict a person’s income level
 
-Libraries used:
+Python libraries used:
 - Numpy
 - Pandas
 - Scikit Learn
